@@ -1,3 +1,3 @@
 print(f"Hello git")
 
-name = "Meet"
+full_name = "Meet"
